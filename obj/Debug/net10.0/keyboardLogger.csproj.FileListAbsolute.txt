@@ -1,0 +1,14 @@
+/home/Henri/Dokumente/projects/cs/keyboardLogger/bin/Debug/net10.0/keyboardLogger
+/home/Henri/Dokumente/projects/cs/keyboardLogger/bin/Debug/net10.0/keyboardLogger.deps.json
+/home/Henri/Dokumente/projects/cs/keyboardLogger/bin/Debug/net10.0/keyboardLogger.runtimeconfig.json
+/home/Henri/Dokumente/projects/cs/keyboardLogger/bin/Debug/net10.0/keyboardLogger.dll
+/home/Henri/Dokumente/projects/cs/keyboardLogger/bin/Debug/net10.0/keyboardLogger.pdb
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.GeneratedMSBuildEditorConfig.editorconfig
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.AssemblyInfoInputs.cache
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.AssemblyInfo.cs
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.csproj.CoreCompileInputs.cache
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.dll
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/refint/keyboardLogger.dll
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.pdb
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/keyboardLogger.genruntimeconfig.cache
+/home/Henri/Dokumente/projects/cs/keyboardLogger/obj/Debug/net10.0/ref/keyboardLogger.dll
